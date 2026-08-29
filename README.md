@@ -1,13 +1,19 @@
-# 🌴 THALLAB
-
 <div align="center">
 
-## Dr. Thallab Al-Bogami Farm
+<img src="images/thallab_logo2.svg" alt="THALLAB Logo" width="220">
+
+# 🌴 THALLAB
+
+## Dr. Thallab Albogami Farm
 
 ### From the land we care for... we bring you its finest harvest
 
 An Arabic website that presents the story of the farm, its products, the date production journey, customer reviews,  
 and allows visitors to place a date order through a dedicated form.
+
+### 🌐 Live Website
+
+[Visit THALLAB Farm Website](https://ourfarm.onrender.com)
 
 </div>
 
@@ -15,7 +21,7 @@ and allows visitors to place a date order through a dedicated form.
 
 ## ✨ About the Project
 
-**THALLAB** is a website for Dr. Thallab Al-Bogami Farm.
+**THALLAB** is a website for Dr. Thallab Albogami Farm.
 
 The website was designed with an Arabic visual identity inspired by the land, palm trees, dates, and warm natural colors.
 
@@ -25,7 +31,7 @@ The project focuses on providing a simple and comfortable user experience, start
 
 ## 🌾 Our Story
 
-The story of **Dr. Thallab Al-Bogami Farm** began in **1433 AH, corresponding to 2011**, with a passion for the land, agriculture, and careful crop cultivation.
+The story of **Dr. Thallab Albogami Farm** began in **1433 AH, corresponding to 2011**, with a passion for the land, agriculture, and careful crop cultivation.
 
 Since the beginning, the farm has focused on production quality and attention to every stage, from the land itself until the harvest reaches the table.
 
@@ -275,12 +281,16 @@ to allow customers to select the date type, quantity, and provide additional ord
 
 <div align="center">
 
+<img src="images/thallab_logo2.svg" alt="THALLAB Logo" width="180">
+
 # 🌴 THALLAB
 
 ### From the land we care for... we bring you its finest harvest
 
-**Dr. Thallab Al-Bogami Farm**
+**Dr. Thallab Albogami Farm**
 
 **1433 AH • 2011**
+
+### 🌐 [Visit the Live Website](https://ourfarm.onrender.com)
 
 </div>
