@@ -1,143 +1,147 @@
-# 🌴 ثــلاب
+# 🌴 THALLAB
 
 <div align="center">
 
-## مزرعة الدكتور ثلاب البقمي
+## Dr. Thallab Al-Bogami Farm
 
-### من أرضٍ نعتني بها... نُقدّم لكم خيراتها
+### From the land we care for... we bring you its finest harvest
 
-موقع ويب عربي يعرض قصة المزرعة، منتجاتها، مراحل إنتاج التمر، آراء العملاء،  
-ويتيح للزائر إرسال طلب تمر مباشرة من خلال نموذج مخصص.
+An Arabic website that presents the story of the farm, its products, the date production journey, customer reviews,  
+and allows visitors to place a date order through a dedicated form.
 
 </div>
 
 ---
 
-## ✨ عن المشروع
+## ✨ About the Project
 
-**ثــلاب** هو موقع ويب لمزرعة الدكتور ثلاب البقمي، تم تصميمه بهوية عربية مستوحاة من الأرض، النخيل، التمور، والألوان الدافئة المرتبطة بالمزرعة.
+**THALLAB** is a website for Dr. Thallab Al-Bogami Farm.
 
-يركز الموقع على تقديم تجربة بسيطة ومريحة للزائر، بداية من التعرف على قصة المزرعة ومنتجاتها، وصولًا إلى معرفة مراحل إنتاج التمر وإرسال طلب مباشرة من خلال الموقع.
+The website was designed with an Arabic visual identity inspired by the land, palm trees, dates, and warm natural colors.
 
----
-
-## 🌾 قصتنــا
-
-بدأت قصــة **مزرعــة الدكتور ثــلاب البقمي** عــام **1433هـ الموافق 2011م**، من شغــف بالأرض واهتمام بالزراعــة والعنايــة بالمحاصيــل.
-
-ومنذ البدايــة، حرصت المزرعــة على الاهتمام بجــودة الإنتاج والعنايــة بكل مرحلــة، من الأرض وحتى وصول المحصــول إلى المائــدة.
+The project focuses on providing a simple and comfortable user experience, starting from discovering the farm story and products, all the way to learning about the date production process and placing an order directly through the website.
 
 ---
 
-## 🌴 منتجات المزرعــة
+## 🌾 Our Story
 
-يعرض الموقع مجموعة من منتجات المزرعة، ومنها:
+The story of **Dr. Thallab Al-Bogami Farm** began in **1433 AH, corresponding to 2011**, with a passion for the land, agriculture, and careful crop cultivation.
 
-- التمــور
-- الرطــب
-- منتجات النخيل
-- المحاصيل الزراعية
-
-تم تصميم هذا القسم بطريقة توضح كل منتج بشكل بسيط ومنظم، مع توزيع متناوب للعناصر لإضافة تنوع بصري للموقع.
+Since the beginning, the farm has focused on production quality and attention to every stage, from the land itself until the harvest reaches the table.
 
 ---
 
-## 🌱 رحلــة التمــر من النخلــة إلى المائــدة
+## 🌴 Farm Products
 
-تمر عملية إنتاج التمر بعدة مراحل تبدأ من العناية بالنخيل وتنتهي بتجهيز المنتج.
+The website presents a selection of farm products, including:
 
-### 01 — العنايــة بالنخيــل
+- Dates
+- Fresh dates
+- Palm products
+- Agricultural crops
 
-تبدأ الرحلة بالعناية بالنخيل ومتابعة نموه لضمان إنتاج ثمار ذات جودة عالية.
-
-### 02 — متابعــة نمــو الثمــار
-
-تتم متابعة الثمار خلال مراحل نموها والعناية بها حتى تصل إلى مرحلة النضج المناسبة.
-
-### 03 — الحصــاد
-
-يتم جمع التمور في الوقت المناسب مع الحرص على المحافظة على جودة الثمار وسلامتها.
-
-### 04 — الفــرز والاختيــار
-
-يتم فرز التمور واختيار أفضل الثمار بعناية حسب الجودة والحجم والمظهر.
-
-### 05 — التجهيــز والتقديــم
-
-تُجهز التمور بعناية لتصل إلى المستهلك بشكل يحافظ على جودتها ومذاقها الأصيل.
+This section was designed to display each product in a simple and organized way, with alternating layouts to create visual variety throughout the page.
 
 ---
 
-## ⭐ آراء العمــلاء
+## 🌱 The Journey of Dates from Palm Tree to Table
 
-يحتوي الموقع على قسم خاص بآراء العملاء وتجاربهم مع منتجات المزرعة.
+Date production goes through several stages, beginning with palm tree care and ending with preparing the final product.
 
-تم تصميم الآراء على شكل كروت متحركة بشكل مستمر، وعند تمرير مؤشر الماوس فوق الكروت تتوقف الحركة مؤقتًا لتسهيل قراءة الرأي.
+### 01 — Palm Tree Care
 
----
+The journey begins with caring for the palm trees and monitoring their growth to support the production of high-quality fruits.
 
-## 🛒 اطلب تمــرك من المزرعــة
+### 02 — Monitoring Fruit Growth
 
-يتيح الموقع للزائر إرسال طلب تمر مباشرة من خلال نموذج بسيط.
+The fruits are carefully monitored throughout their growth stages until they reach the appropriate level of maturity.
 
-يمكن للعميل إدخال:
+### 03 — Harvesting
 
-- الاسم الكامل
-- رقم الجوال
-- نوع التمر
-- الكمية
-- ملاحظات إضافية
+Dates are harvested at the appropriate time while maintaining the quality and safety of the fruits.
 
-ومن أنواع التمور الموجودة في النموذج:
+### 04 — Sorting and Selection
 
-- سكري
-- خلاص
-- صقعي
-- جلكسي
+Dates are sorted and the best fruits are carefully selected based on quality, size, and appearance.
+
+### 05 — Preparation and Presentation
+
+The dates are carefully prepared to reach the customer while preserving their quality and authentic taste.
 
 ---
 
-## 🎨 الهوية البصرية
+## ⭐ Customer Reviews
 
-تم تصميم هوية الموقع بألوان مستوحاة من التمور والأرض والطابع الزراعي السعودي.
+The website includes a dedicated section for customer reviews and experiences with the farm products.
 
-### لوحة الألوان
+The reviews are displayed as continuously moving cards.
 
-| اللون | HEX |
+When the user hovers over the review cards, the animation pauses temporarily to make the reviews easier to read.
+
+---
+
+## 🛒 Order Your Dates from the Farm
+
+The website allows visitors to submit a date order through a simple form.
+
+The customer can enter:
+
+- Full name
+- Phone number
+- Date type
+- Quantity
+- Additional notes
+
+Available date options in the form include:
+
+- Sukkari
+- Khalas
+- Saqai
+- Galaxy
+
+---
+
+## 🎨 Visual Identity
+
+The website uses a visual identity inspired by dates, the land, and the Saudi agricultural environment.
+
+### Color Palette
+
+| Color | HEX |
 |---|---|
-| بني داكن | `#4A2B12` |
-| بني دافئ | `#6F2D0F` |
-| ذهبي | `#C89B4A` |
-| بيج | `#E8D6BB` |
-| كريمي | `#F4E7D3` |
+| Dark Brown | `#4A2B12` |
+| Warm Brown | `#6F2D0F` |
+| Gold | `#C89B4A` |
+| Beige | `#E8D6BB` |
+| Cream | `#F4E7D3` |
 
 ---
 
-## ✍️ الخط
+## ✍️ Font
 
-تم استخدام خط:
+The website uses:
 
 **Thmanyah Sans**
 
-لإعطاء الموقع طابعًا عربيًا حديثًا ومتناسقًا مع الهوية البصرية للمزرعة.
+to give the website a modern Arabic appearance that matches the visual identity of the farm.
 
 ---
 
-## 🎬 الحركة والتفاعل
+## 🎬 Motion and Interaction
 
-يحتوي الموقع على عدة تأثيرات وحركات بسيطة تضيف تجربة أكثر حيوية، مثل:
+The website includes several simple animations and interactive effects to make the experience more dynamic, including:
 
-- حركة دخول عنوان الصفحة
-- حركة دخول شعار ثلاب
-- تحريك روابط شريط التنقل عند المرور عليها
-- تكبير الشعارات والصور بشكل خفيف
-- رفع كروت المنتجات
-- رفع مراحل إنتاج التمر
-- حركة كروت آراء العملاء
-- تأثيرات على زر إرسال الطلب
-- تأثيرات على روابط الفوتر
+- Hero title entrance animation
+- THALLAB logo entrance animation
+- Navigation link hover effects
+- Slight logo and image scaling
+- Product card movement
+- Date production stage hover effects
+- Moving customer review cards
+- Order button effects
+- Footer link interactions
 
-تم استخدام:
+The following CSS concepts were used:
 
 ```text
 Transition
@@ -149,21 +153,21 @@ Hover
 
 ---
 
-## 📱 التصميم المتجاوب
+## 📱 Responsive Design
 
-تم تصميم الموقع ليعمل على أحجام شاشات مختلفة.
+The website was designed to work across different screen sizes.
 
-في الشاشات الصغيرة يتم:
+On smaller screens:
 
-- إعادة ترتيب شريط التنقل
-- تحويل الـHero إلى عمود واحد
-- ترتيب صورة ونص قصة المزرعة عموديًا
-- عرض المنتجات بشكل مناسب للجوال
-- تحويل مراحل إنتاج التمر إلى عمود واحد
-- ترتيب نموذج الطلب ليناسب الشاشة
-- إعادة ترتيب الفوتر
+- The navigation bar is rearranged
+- The Hero section changes to a single-column layout
+- The farm image and story text are displayed vertically
+- Product layouts are adjusted for mobile
+- The date production stages become a single-column layout
+- The order form is resized for smaller screens
+- The footer is rearranged vertically
 
-تم استخدام **Media Query**:
+A Media Query is used for mobile screens:
 
 ```css
 @media (max-width: 768px) {
@@ -172,7 +176,7 @@ Hover
 
 ---
 
-## 🗂️ هيكل المشروع
+## 🗂️ Project Structure
 
 ```text
 project/
@@ -191,14 +195,14 @@ project/
 
 ---
 
-## 💻 التقنيات المستخدمة
+## 💻 Technologies Used
 
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
 - Media Queries
-- Forms
+- HTML Forms
 - Relative Paths
 - Transitions
 - Transform
@@ -207,36 +211,36 @@ project/
 
 ---
 
-## 🔗 التنقل داخل الموقع
+## 🔗 Website Navigation
 
-يحتوي شريط التنقل على روابط مباشرة لأقسام الصفحة:
+The navigation bar provides direct links to the main sections of the website:
 
-- الرئيسية
-- قصتنا
-- منتجاتنا
-- طريقة عملنا
-- آراء عملائنا
-- تواصل معنا
+- Home
+- Our Story
+- Products
+- How We Work
+- Customer Reviews
+- Contact Us
 
-ويتم الانتقال بين الأقسام باستخدام روابط داخلية مثل:
+Internal page navigation is implemented using anchor links such as:
 
 ```html
-<a href="#products">منتجاتنا</a>
+<a href="#products">Products</a>
 ```
 
 ---
 
-## 🖼️ الصور
+## 🖼️ Images
 
-تم استخدام الصور داخل المشروع باستخدام **Relative Paths** حتى يظل الموقع يعمل عند نقل مجلد المشروع كاملًا إلى مسار آخر.
+Images are included using **Relative Paths**, allowing the website to continue working when the entire project folder is moved to another location.
 
-مثال:
+Example from HTML:
 
 ```html
-<img src="images/thallab_logo2.svg" alt="شعار ثلاب">
+<img src="images/thallab_logo2.svg" alt="THALLAB Logo">
 ```
 
-ومن داخل ملف CSS:
+Example from CSS:
 
 ```css
 background-image: url("../images/tree.png");
@@ -244,20 +248,20 @@ background-image: url("../images/tree.png");
 
 ---
 
-## 📋 نموذج الطلب
+## 📋 Order Form
 
-تم إنشاء نموذج مخصص لطلبات التمر باستخدام عناصر **HTML Forms**.
+A dedicated order form was created using **HTML Forms**.
 
-مثال:
+Example:
 
 ```html
 <label>
-    الاسم الكامل
+    Full Name
     <input type="text" name="name" required>
 </label>
 ```
 
-كما يحتوي النموذج على عناصر مثل:
+The form also includes elements such as:
 
 ```html
 <select>
@@ -265,18 +269,18 @@ background-image: url("../images/tree.png");
 <button>
 ```
 
-وذلك لتسهيل إدخال بيانات الطلب واختيار نوع التمر والكمية.
+to allow customers to select the date type, quantity, and provide additional order notes.
 
 ---
 
 <div align="center">
 
-# 🌴 ثــلاب
+# 🌴 THALLAB
 
-### من أرضٍ نعتني بها... نُقدّم لكم خيراتها
+### From the land we care for... we bring you its finest harvest
 
-**مزرعة الدكتور ثلاب البقمي**
+**Dr. Thallab Al-Bogami Farm**
 
-**1433هـ • 2011م**
+**1433 AH • 2011**
 
 </div>
