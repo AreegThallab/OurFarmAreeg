@@ -1,3 +1,11 @@
+:root {
+    --dark-brown: #4A2B12;
+    --warm-brown: #6F2D0F;
+    --gold: #C89B4A;
+    --beige: #E8D6BB;
+    --cream: #F4E7D3;
+}
+
 nav { 
     font-family: "Thmanyah Sans", Tahoma, Arial, sans-serif; 
     background-color: #4A2B12 /*rgb(94, 60, 14)*/; 
@@ -918,4 +926,30 @@ hero h3 {
         transform: translateY(0);
     }
 
+}
+
+
+
+
+
+
+
+.products-title::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: var(--gold);
+    margin: 10px auto 0;
+    border-radius: 10px;
+}
+
+.section-head h2::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: var(--gold);
+    margin: 10px auto 0;
+    border-radius: 10px;
 }
