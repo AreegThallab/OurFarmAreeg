@@ -11,9 +11,6 @@
 An Arabic website that presents the story of the farm, its products, the date production journey, customer reviews,  
 and allows visitors to place a date order through a dedicated form.
 
-### 🌐 Live Website
-
-[Visit THALLAB Farm Website](https://ourfarm.onrender.com)
 
 </div>
 
@@ -291,6 +288,5 @@ to allow customers to select the date type, quantity, and provide additional ord
 
 **1433 AH • 2011**
 
-### 🌐 [Visit the Live Website](https://ourfarm.onrender.com)
 
 </div>
